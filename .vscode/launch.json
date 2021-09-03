@@ -1,0 +1,546 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch maxBstHeight",
+            "request": "launch",
+            "mainClass": "BST2.maxBstHeight",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch levelWiseLinkedList",
+            "request": "launch",
+            "mainClass": "BST2.levelWiseLinkedList",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch nodeToRoot",
+            "request": "launch",
+            "mainClass": "BST2.nodeToRoot",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch extractUniqueCharacter",
+            "request": "launch",
+            "mainClass": "Hashmaps.extractUniqueCharacter",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomHashMap",
+            "request": "launch",
+            "mainClass": "Hashmaps.CustomHashMap",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairSumToZero",
+            "request": "launch",
+            "mainClass": "Hashmaps.PairSumToZero",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch printIntersection",
+            "request": "launch",
+            "mainClass": "Hashmaps.printIntersection",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxFrequency",
+            "request": "launch",
+            "mainClass": "Hashmaps.maxFrequency",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "Hashmaps.removeDuplicates",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Hashmaps.test",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch nQueen",
+            "request": "launch",
+            "mainClass": "BackTracking.nQueen",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rat",
+            "request": "launch",
+            "mainClass": "BackTracking.Rat",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchBST",
+            "request": "launch",
+            "mainClass": "BST.searchBST",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeExample",
+            "request": "launch",
+            "mainClass": "BinaryTrees.TreeExample",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch reveseQueue",
+            "request": "launch",
+            "mainClass": "Queue.reveseQueue",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch minBracketReversal",
+            "request": "launch",
+            "mainClass": "Stacks.minBracketReversal",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch stockSpan",
+            "request": "launch",
+            "mainClass": "Stacks.stockSpan",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkRedundantBrackets",
+            "request": "launch",
+            "mainClass": "Stacks.checkRedundantBrackets",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseStack",
+            "request": "launch",
+            "mainClass": "Stacks.reverseStack",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch balancedBrackets",
+            "request": "launch",
+            "mainClass": "Stacks.balancedBrackets",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuiltInStack",
+            "request": "launch",
+            "mainClass": "Stacks.BuiltInStack",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackUse",
+            "request": "launch",
+            "mainClass": "Stacks.stackUse",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrangeArray",
+            "request": "launch",
+            "mainClass": "Arrays.ArrangeArray",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairSumHint",
+            "request": "launch",
+            "mainClass": "Arrays.PairSumHint",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayIntersection",
+            "request": "launch",
+            "mainClass": "Arrays.arrayIntersection",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch findUnique",
+            "request": "launch",
+            "mainClass": "Arrays.findUnique",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort01",
+            "request": "launch",
+            "mainClass": "Arrays.sort01",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch swapAlternative",
+            "request": "launch",
+            "mainClass": "Arrays.swapAlternative",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindSecondLargest",
+            "request": "launch",
+            "mainClass": "Arrays2.FindSecondLargest",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearch",
+            "request": "launch",
+            "mainClass": "Arrays2.binarySearch",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "Arrays2.bubbleSort",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "Arrays2.insertionSort",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSorted",
+            "request": "launch",
+            "mainClass": "Arrays2.mergeSorted",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch pushZeros",
+            "request": "launch",
+            "mainClass": "Arrays2.pushZeros",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotateArray",
+            "request": "launch",
+            "mainClass": "Arrays2.rotateArray",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "Arrays2.selectionSort",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPermutation",
+            "request": "launch",
+            "mainClass": "CheckPermutation",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch EquilibruimIndex",
+            "request": "launch",
+            "mainClass": "EquilibruimIndex",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkedListUse",
+            "request": "launch",
+            "mainClass": "LinkedList.linkedListUse",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution",
+            "request": "launch",
+            "mainClass": "Oops1.solution",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Recursion1.Factorial",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciNumber",
+            "request": "launch",
+            "mainClass": "Recursion1.FibonacciNumber",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "Recursion1.Multiplication",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion1.NumberOfDigits",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerLinear",
+            "request": "launch",
+            "mainClass": "Recursion1.PowerLinear",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerLogarithmic",
+            "request": "launch",
+            "mainClass": "Recursion1.PowerLogarithmic",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPalindrome",
+            "request": "launch",
+            "mainClass": "Recursion1.checkPalindrome",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch countZeros",
+            "request": "launch",
+            "mainClass": "Recursion1.countZeros",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch geometricSum",
+            "request": "launch",
+            "mainClass": "Recursion1.geometricSum",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion1.sumOfDigits",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToInteger",
+            "request": "launch",
+            "mainClass": "Recursion2.StringToInteger",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSort",
+            "request": "launch",
+            "mainClass": "Recursion2.mergeSort",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairStars",
+            "request": "launch",
+            "mainClass": "Recursion2.pairStars",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "Recursion2.removeDuplicates",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeX",
+            "request": "launch",
+            "mainClass": "Recursion2.removeX",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch replaceCharacter",
+            "request": "launch",
+            "mainClass": "Recursion2.replaceCharacter",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch replacePi",
+            "request": "launch",
+            "mainClass": "Recursion2.replacePi",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch towerOfHanoi",
+            "request": "launch",
+            "mainClass": "Recursion2.towerOfHanoi",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch returnKeypad",
+            "request": "launch",
+            "mainClass": "Recursion3.returnKeypad",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch returnSubsequences",
+            "request": "launch",
+            "mainClass": "Recursion3.returnSubsequences",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllIndicies",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.AllIndicies",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsSorted",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.IsSorted",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsSortedBetter",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.IsSortedBetter",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfArray",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.SumOfArray",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkNumber",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.checkNumber",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstIndexOfNumber",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.firstIndexOfNumber",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch lastIndexOfNumber",
+            "request": "launch",
+            "mainClass": "RecursionInArrays.lastIndexOfNumber",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch RowWiseSum",
+            "request": "launch",
+            "mainClass": "TwoDimesnionalArrays.RowWiseSum",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestRowColumn",
+            "request": "launch",
+            "mainClass": "TwoDimesnionalArrays.largestRowColumn",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayIntersection(1)",
+            "request": "launch",
+            "mainClass": "arrayIntersection",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxTheSum",
+            "request": "launch",
+            "mainClass": "maxTheSum",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseEachWord",
+            "request": "launch",
+            "mainClass": "reverseEachWord",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseWordWise",
+            "request": "launch",
+            "mainClass": "reverseWordWise",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch substring",
+            "request": "launch",
+            "mainClass": "substring",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "DS_1bbba5fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch textCompression",
+            "request": "launch",
+            "mainClass": "textCompression",
+            "projectName": "DS_1bbba5fc"
+        }
+    ]
+}
